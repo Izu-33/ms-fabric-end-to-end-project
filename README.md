@@ -1,4 +1,5 @@
 # ms-fabric-end-to-end-project
+![fabric logo](/images/Fabric_256.svg)
 
 - Lakehouse
 - Data Pipeline
